@@ -1,0 +1,14 @@
+C:\Users\Simform Solutions\source\repos\Practical-5\Practical-5\bin\Debug\netcoreapp3.1\Practical-5.exe
+C:\Users\Simform Solutions\source\repos\Practical-5\Practical-5\bin\Debug\netcoreapp3.1\Practical-5.deps.json
+C:\Users\Simform Solutions\source\repos\Practical-5\Practical-5\bin\Debug\netcoreapp3.1\Practical-5.runtimeconfig.json
+C:\Users\Simform Solutions\source\repos\Practical-5\Practical-5\bin\Debug\netcoreapp3.1\Practical-5.runtimeconfig.dev.json
+C:\Users\Simform Solutions\source\repos\Practical-5\Practical-5\bin\Debug\netcoreapp3.1\Practical-5.dll
+C:\Users\Simform Solutions\source\repos\Practical-5\Practical-5\bin\Debug\netcoreapp3.1\Practical-5.pdb
+C:\Users\Simform Solutions\source\repos\Practical-5\Practical-5\obj\Debug\netcoreapp3.1\Practical-5.csproj.AssemblyReference.cache
+C:\Users\Simform Solutions\source\repos\Practical-5\Practical-5\obj\Debug\netcoreapp3.1\Practical-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simform Solutions\source\repos\Practical-5\Practical-5\obj\Debug\netcoreapp3.1\Practical-5.AssemblyInfoInputs.cache
+C:\Users\Simform Solutions\source\repos\Practical-5\Practical-5\obj\Debug\netcoreapp3.1\Practical-5.AssemblyInfo.cs
+C:\Users\Simform Solutions\source\repos\Practical-5\Practical-5\obj\Debug\netcoreapp3.1\Practical-5.csproj.CoreCompileInputs.cache
+C:\Users\Simform Solutions\source\repos\Practical-5\Practical-5\obj\Debug\netcoreapp3.1\Practical-5.dll
+C:\Users\Simform Solutions\source\repos\Practical-5\Practical-5\obj\Debug\netcoreapp3.1\Practical-5.pdb
+C:\Users\Simform Solutions\source\repos\Practical-5\Practical-5\obj\Debug\netcoreapp3.1\Practical-5.genruntimeconfig.cache
