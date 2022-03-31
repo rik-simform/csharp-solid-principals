@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "263f1dbd-7ce3-495b-b308-b5d5400b959f": {
+      "ProjectGuid": "263f1dbd-7ce3-495b-b308-b5d5400b959f",
+      "DisplayName": "Practical-1",
+      "ColorIndex": 0
+    },
+    "aa86b254-b710-47b4-9caf-c129f3493930": {
+      "ProjectGuid": "aa86b254-b710-47b4-9caf-c129f3493930",
+      "DisplayName": "DebuggingApplication",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
